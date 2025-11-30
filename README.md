@@ -1,1 +1,1 @@
-# feedly_ictis
+# feedly
